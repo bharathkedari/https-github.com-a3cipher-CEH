@@ -14,6 +14,12 @@ However, many drivers allow the MAC address to be changed.
 Links
 - [https://en.wikipedia.org/wiki/MAC_spoofing](https://en.wikipedia.org/wiki/MAC_spoofing)
 
+## Memory Leak
+In computer science, a memory leak is a type of resource leak that occurs when a computer program incorrectly manages memory allocations[1] in a way that memory which is no longer needed is not released. A memory leak may also happen when an object is stored in memory but cannot be accessed by the running code (i.e. unreachable memory).[2] A memory leak has symptoms similar to a number of other problems and generally can only be diagnosed by a programmer with access to the program's source code.
+
+Links
+- [https://en.wikipedia.org/wiki/Memory_leak](https://en.wikipedia.org/wiki/Memory_leak)
+
 ## Metasearch Engine
 A metasearch engine (or search aggregator) is an online information retrieval tool that uses the data of a web search engine to produce its own results.
 
@@ -27,6 +33,13 @@ A collaboration between the open source community and Rapid7, Metasploit helps s
 Links
 - [https://www.metasploit.com](https://www.metasploit.com)
 
+
+## Microsoft Security Response Center
+The Microsoft Security Response Center is part of the defender community and on the front line of security response evolution.
+For over twenty years, we have been engaged with security researchers working to protect customers and the broader ecosystem.
+
+Links
+- [https://www.microsoft.com/en-us/msrc](https://www.microsoft.com/en-us/msrc)
 
 ## MITRE ATT&CK Framework
 MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations.
