@@ -1,5 +1,11 @@
 # Definitions S
 
+## Salt
+In cryptography, a salt is random data that is used as an additional input to a one-way function that hashes data, a password or passphrase.
+
+Links
+- [https://en.wikipedia.org/wiki/Salt_(cryptography)](https://en.wikipedia.org/wiki/Salt_(cryptography))
+
 ## Sarbanes–Oxley Act
 > The Sarbanes–Oxley Act of 2002 is a United States federal law that mandates certain practices in financial record keeping and reporting for corporations.
 
@@ -11,6 +17,13 @@ A script kiddie, kiddie, or skid is a relatively unskilled individual who uses s
 
 Links
 - [https://en.wikipedia.org/wiki/Script_kiddie](https://en.wikipedia.org/wiki/Script_kiddie)
+
+## Security Account Manager Database
+The Security Account Manager (SAM) is a database file in Windows XP, Windows Vista, Windows 7, 8.1, 10 and 11 that stores users' passwords.
+
+Links
+- [https://en.wikipedia.org/wiki/Security_Account_Manager](https://en.wikipedia.org/wiki/Security_Account_Manager)
+
 
 ## Server Message Block
 Server Message Block (SMB) is a communication protocol[1] originally developed in 1983 by Barry A. Feigenbaum at IBM[2] and intended to provide shared access to files and printers across nodes on a network of systems running IBM's OS/2. It also provides an authenticated inter-process communication (IPC) mechanism. 
@@ -63,6 +76,18 @@ Splunk is the data platform that powers enterprise observability, unified securi
 
 Links
 - [https://www.splunk.com](https://www.splunk.com)
+
+## Spyware
+Spyware (a portmanteau for spying software) is software with malicious behaviour that aims to gather information about a person or organization and send it to another entity in a way that harms the user—for example, by violating their privacy or endangering their device's security.
+
+Links
+- [https://en.wikipedia.org/wiki/Spyware](https://en.wikipedia.org/wiki/Spyware)
+
+## Steganography
+Steganography (/ˌstɛɡəˈnɒɡrəfi/ (listen) STEG-ə-NOG-rə-fee) is the practice of representing information within another message or physical object, in such a manner that the presence of the information is not evident to human inspection.
+
+Links
+- [https://en.wikipedia.org/wiki/Steganography](https://en.wikipedia.org/wiki/Steganography)
 
 ## Sublist3r
 Sublist3r is a python tool designed to enumerate subdomains of websites using OSINT.
