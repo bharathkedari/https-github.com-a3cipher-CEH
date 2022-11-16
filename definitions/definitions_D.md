@@ -12,6 +12,13 @@ The Data Protection Act 2018 is the UK’s implementation of the General Data Pr
 Links
 - [https://www.gov.uk/data-protection](https://www.gov.uk/data-protection)
 
+## Database Connection
+A database connection is a facility in computer science that allows client software to talk to database server software, whether on the same machine or not.
+A connection is required to send commands and receive answers, usually in the form of a result set.
+
+Links
+- [https://en.wikipedia.org/wiki/Database_connection](https://en.wikipedia.org/wiki/Database_connection)
+
 ## Default Credentials
 A Default Credential vulnerability is a type of vulnerability in a computing device that most commonly affects devices having some pre-set (default) administrative credentials to access all configuration settings.
 The vendor or manufacturer of such devices uses a single pre-defined set of admin credentials to access the device configurations, and any potential hacker can misuse this fact to hack such devices, if those credentials are not changed by consumers.
@@ -113,6 +120,12 @@ It is a network device such as a modem or a router connected to the network by a
 Links
 - [https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol)
 - [https://en.wikipedia.org/wiki/Rogue_DHCP](https://en.wikipedia.org/wiki/Rogue_DHCP)
+
+## Dynamic Application Security Testing
+A dynamic application security testing (DAST) is a non functional testing process where one can assess an application using certain techniques and the end result of such testing process covers security weaknesses and vulnerabilities present in an application.
+
+Links
+- [https://en.wikipedia.org/wiki/Dynamic_application_security_testing](https://en.wikipedia.org/wiki/Dynamic_application_security_testing)
 
 ## Dynamic Link Library
 Dynamic-link library (DLL) is Microsoft's implementation of the shared library concept in the Microsoft Windows and OS/2 operating systems

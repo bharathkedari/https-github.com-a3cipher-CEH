@@ -7,6 +7,13 @@ The fragments are reassembled by the receiving host.
 Links
 - [https://en.wikipedia.org/wiki/IP_fragmentation](https://en.wikipedia.org/wiki/IP_fragmentation)
 
+## Pass the Hash
+In computer security, pass the hash is a hacking technique that allows an attacker to authenticate to a remote server or service by using the underlying NTLM or LanMan hash of a user's password, instead of requiring the associated plaintext password as is normally the case.
+It replaces the need for stealing the plaintext password to gain access with stealing the hash.
+
+Links
+- [https://en.wikipedia.org/wiki/Pass_the_hash](https://en.wikipedia.org/wiki/Pass_the_hash)
+
 ## Password Cracking
 In cryptanalysis and computer security, password cracking is the process of recovering passwords from data that has been stored in or transmitted by a computer system in scrambled form.
 A common approach (brute-force attack) is to repeatedly try guesses for the password and to check them against an available cryptographic hash of the password.
@@ -45,6 +52,12 @@ In security, piggybacking, similar to tailgating, refers to when a person tags a
 
 Links
 - [https://en.wikipedia.org/wiki/Piggybacking_(security)](https://en.wikipedia.org/wiki/Piggybacking_(security))
+
+## Postman
+Postman is an API platform for developers to design, build, test and iterate their APIs.
+
+Links
+- [https://www.postman.com](https://www.postman.com)
 
 ## Post Office Protocol
 In computing, the Post Office Protocol (POP) is an application-layer Internet standard protocol used by e-mail clients to retrieve e-mail from a mail server.

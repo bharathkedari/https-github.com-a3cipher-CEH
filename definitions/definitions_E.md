@@ -1,4 +1,4 @@
-# Defintions E
+# Definitions E
 
 ## Eavesdropping
 Eavesdropping is the act of secretly or stealthily listening to the private conversation or communications of others without their consent in order to gather information.
@@ -8,6 +8,12 @@ Links
 
 ## Elicitation
 An elicitation technique is any of a number of data collection techniques used in anthropology, cognitive science, counseling, education, knowledge engineering, linguistics, management, philosophy, psychology, or other fields to gather knowledge or information from people.
+
+## Encoding
+Character encoding is the process of assigning numbers to graphical characters, especially the written characters of human language, allowing them to be stored, transmitted, and transformed using digital computers.
+
+Links
+- [https://en.wikipedia.org/wiki/Character_encoding](https://en.wikipedia.org/wiki/Character_encoding)
 
 ## Encryption
 In cryptography, encryption is the process of encoding information.
@@ -40,3 +46,16 @@ The Exploit Database is an archive of public exploits and corresponding vulnerab
 Links
 - [https://github.com/offensive-security/exploitdb](https://github.com/offensive-security/exploitdb)
 - [https://www.exploit-db.com](https://www.exploit-db.com)
+
+## Extensible Markup Language
+Extensible Markup Language (XML) is a markup language and file format for storing, transmitting, and reconstructing arbitrary data.
+It defines a set of rules for encoding documents in a format that is both human-readable and machine-readable
+
+### XML external entity attack
+XML External Entity attack (XXE attack) is a type of attack against an application that parses XML input.
+This attack occurs when XML input containing a reference to an external entity is processed by a weakly configured XML parser.
+This attack may lead to the disclosure of confidential data, denial of service (DoS), server side request forgery, port scanning from the perspective of the machine where the parser is located, and other system impacts.
+
+Links
+- [https://en.wikipedia.org/wiki/XML](https://en.wikipedia.org/wiki/XML)
+- [https://en.wikipedia.org/wiki/XML_external_entity_attack](https://en.wikipedia.org/wiki/XML_external_entity_attack)

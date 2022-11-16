@@ -52,11 +52,29 @@ A replay attack (also known as a repeat attack or playback attack) is a form of 
 Links
 - [https://en.wikipedia.org/wiki/Replay_attack](https://en.wikipedia.org/wiki/Replay_attack)
 
+## Remote File Inclusion
+Remote file inclusion (RFI) occurs when the web application downloads and executes a remote file. These remote files are usually obtained in the form of an HTTP or FTP URI as a user-supplied parameter to the web application.
+
+Link
+- [https://en.wikipedia.org/wiki/File_inclusion_vulnerability](https://en.wikipedia.org/wiki/File_inclusion_vulnerability)
+ 
+## Representational State Transfer
+Representational state transfer (REST) is a software architectural style that describes a uniform interface between physically separate components, often across the Internet in a client-server architecture.
+
+Links
+- [https://en.wikipedia.org/wiki/Representational_state_transfer](https://en.wikipedia.org/wiki/Representational_state_transfer)
+
 ## Return Oriented Programming
 Return-oriented programming (ROP) is a computer security exploit technique that allows an attacker to execute code in the presence of security defenses such as executable space protection and code signing.
 
 Links
 - [https://en.wikipedia.org/wiki/Return-oriented_programming](https://en.wikipedia.org/wiki/Return-oriented_programming)
+
+## Reverse Engineering
+Reverse engineering (also known as backwards engineering or back engineering) is a process or method through which one attempts to understand through deductive reasoning how a previously made device, process, system, or piece of software accomplishes a task with very little (if any) insight into exactly how it does so.
+
+Links
+- [https://en.wikipedia.org/wiki/Reverse_engineering](https://en.wikipedia.org/wiki/Reverse_engineering)
 
 ## Risk Management
 Risk management is the identification, evaluation, and prioritization of risks (defined in ISO 31000 as the effect of uncertainty on objectives) followed by coordinated and economical application of resources to minimize, monitor, and control the probability or impact of unfortunate events or to maximize the realization of opportunities.
@@ -86,6 +104,13 @@ A risk matrix is a matrix that is used during risk assessment to define the leve
 
 Links
 - [https://en.wikipedia.org/wiki/Risk_matrix](https://en.wikipedia.org/wiki/Risk_matrix)
+
+## Role Based Access Control
+In computer systems security, role-based access control (RBAC) or role-based security is an approach to restricting system access to authorized users.
+It is an approach to implement mandatory access control (MAC) or discretionary access control (DAC).
+
+Links
+- [https://en.wikipedia.org/wiki/Role-based_access_control](https://en.wikipedia.org/wiki/Role-based_access_control)
 
 ## Rootkit
 A rootkit is a collection of computer software, typically malicious, designed to enable access to a computer or an area of its software that is not otherwise allowed (for example, to an unauthorized user) and often masks its existence or the existence of other software.

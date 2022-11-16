@@ -7,6 +7,34 @@ Software for wardriving is freely available on the internet.
 Links
 - [https://en.wikipedia.org/wiki/Wardriving](https://en.wikipedia.org/wiki/Wardriving)
 
+## Watering Hole Attack
+Watering hole is a computer attack strategy in which an attacker guesses or observes which websites an organization often uses and infects one or more of them with malware.
+Eventually, some member of the targeted group will become infected.
+
+Links
+- [https://en.wikipedia.org/wiki/Watering_hole_attack](https://en.wikipedia.org/wiki/Watering_hole_attack)
+
+## Webhook
+A webhook in web development is a method of augmenting or altering the behavior of a web page or web application with custom callbacks.
+These callbacks may be maintained, modified, and managed by third-party users and developers who may not necessarily be affiliated with the originating website or application.
+
+Links
+- [https://en.wikipedia.org/wiki/Webhook](https://en.wikipedia.org/wiki/Webhook)
+
+## Web Application
+A web application (or web app) is application software that is accessed using a web browser.
+Web applications are delivered on the World Wide Web to users with an active network connection.
+
+Links
+- [https://en.wikipedia.org/wiki/Web_application](https://en.wikipedia.org/wiki/Web_application)
+
+## Web Application Firewall
+A web application firewall (WAF) is a specific form of application firewall that filters, monitors, and blocks HTTP traffic to and from a web service.
+By inspecting HTTP traffic, it can prevent attacks exploiting a web application's known vulnerabilities, such as SQL injection, cross-site scripting (XSS), file inclusion, and improper system configuration.
+
+Links
+- [https://en.wikipedia.org/wiki/Web_application_firewall](https://en.wikipedia.org/wiki/Web_application_firewall)
+
 ## Web Cache Poisoning
 In a vulnerable application, threat actors inject specially crafted data into cache memory, causing the webserver to respond with a malicious HTTP response to the user.
 
@@ -16,6 +44,13 @@ A user agent, commonly a web browser or web crawler, initiates communication by 
 
 Links
 - [https://en.wikipedia.org/wiki/Web_server](https://en.wikipedia.org/wiki/Web_server)
+
+## Web Shell
+A web shell is a shell-like interface that enables a web server to be remotely accessed, often for the purposes of cyberattacks.
+A web shell is unique in that a web browser is used to interact with it.
+
+Links
+- [https://en.wikipedia.org/wiki/Web_shell](https://en.wikipedia.org/wiki/Web_shell)
 
 ## Web Spider
 A Web crawler, sometimes called a spider or spiderbot and often shortened to crawler, is an Internet bot that systematically browses the World Wide Web and that is typically operated by search engines for the purpose of Web indexing (web spidering).

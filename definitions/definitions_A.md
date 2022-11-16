@@ -31,11 +31,25 @@ Links
 Anonymous surfing allows you to wander the Internet without leaving any track of your computer's IP (Internet Protocol) address.
 This is accomplished via a proxy service.
 
-## Antivvirus
+## Antivirus
 Antivirus software (abbreviated to AV software), also known as anti-malware, is a computer program used to prevent, detect, and remove malware.
 
 Links
 - [https://en.wikipedia.org/wiki/Antivirus_software](https://en.wikipedia.org/wiki/Antivirus_software)
+
+## Application Blacklisting
+In computing, a blacklist, disallowlist, blocklist, or denylist is a basic access control mechanism that allows through all elements (email addresses, users, passwords, URLs, IP addresses, domain names, file hashes, etc.), except those explicitly mentioned.
+
+Links
+- [https://en.wikipedia.org/wiki/Blacklist_(computing)](https://en.wikipedia.org/wiki/Blacklist_(computing))
+
+## Application Programming Interface
+An application programming interface (API) is a way for two or more computer programs to communicate with each other.
+It is a type of software interface, offering a service to other pieces of software.
+A document or standard that describes how to build or use such a connection or interface is called an API specification.
+
+Links
+- [https://en.wikipedia.org/wiki/API](https://en.wikipedia.org/wiki/API)
 
 ## Archive Org
 The Internet Archive is an American digital library with the stated mission of "universal access to all knowledge".
@@ -51,3 +65,8 @@ AI research has been defined as the field of study of intelligent agents, which 
 Links
 - [https://en.wikipedia.org/wiki/Artificial_intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 
+## Auth0
+Rapidly integrate authentication and authorization for web, mobile, and legacy applications so you can focus on your core business.
+
+Links
+- [https://auth0.com](https://auth0.com)

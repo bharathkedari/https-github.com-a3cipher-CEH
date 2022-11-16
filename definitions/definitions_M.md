@@ -78,7 +78,6 @@ A collaboration between the open source community and Rapid7, Metasploit helps s
 Links
 - [https://www.metasploit.com](https://www.metasploit.com)
 
-
 ## Microsoft Security Response Center
 The Microsoft Security Response Center is part of the defender community and on the front line of security response evolution.
 For over twenty years, we have been engaged with security researchers working to protect customers and the broader ecosystem.
@@ -92,3 +91,9 @@ The ATT&CK knowledge base is used as a foundation for the development of specifi
 
 Links
 - [https://attack.mitre.org/](https://attack.mitre.org/)
+
+## Multi Factor Authentication
+Multi-factor authentication (MFA; encompassing two-factor authentication, or 2FA, along with similar terms) is an electronic authentication method in which a user is granted access to a website or application only after successfully presenting two or more pieces of evidence (or factors) to an authentication mechanism: knowledge (something only the user knows), possession (something only the user has), and inherence (something only the user is).
+
+Links
+- [https://en.wikipedia.org/wiki/Multi-factor_authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication)

@@ -34,6 +34,13 @@ It does not write any part of its activity to the computer's hard drive, thus in
 Links
 - [https://en.wikipedia.org/wiki/Fileless_malware](https://en.wikipedia.org/wiki/Fileless_malware)
 
+## File Inclusion Vulnerability
+A file inclusion vulnerability is a type of web vulnerability that is most commonly found to affect web applications that rely on a scripting run time.
+This issue is caused when an application builds a path to executable code using an attacker-controlled variable in a way that allows the attacker to control which file is executed at run time.
+
+Links
+- [https://en.wikipedia.org/wiki/File_inclusion_vulnerability](https://en.wikipedia.org/wiki/File_inclusion_vulnerability)
+
 ## Firewalking
 Firewalking is a technique developed by Mike Schiffman and David Goldsmith that utilizes traceroute techniques and TTL values to analyze IP packet responses in order to determine gateway ACL (Access Control List) filters and map networks.
 It is an active reconnaissance network security analysis technique that attempts to determine which layer 4 protocols a specific firewall will allow.
@@ -47,3 +54,9 @@ A firewall typically establishes a barrier between a trusted network and an untr
 
 Links
 - [https://en.wikipedia.org/wiki/Firewall_(computing)](https://en.wikipedia.org/wiki/Firewall_(computing))
+
+## Fuzzing
+In programming and software development, fuzzing or fuzz testing is an automated software testing technique that involves providing invalid, unexpected, or random data as inputs to a computer program.
+
+Links
+- [https://en.wikipedia.org/wiki/Fuzzing](https://en.wikipedia.org/wiki/Fuzzing)

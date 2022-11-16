@@ -15,6 +15,18 @@ For any information system to serve its purpose, the information must be availab
 Links
 - [https://en.wikipedia.org/wiki/Confidentiality](https://en.wikipedia.org/wiki/Confidentiality)
 
+## Clickjacking
+Clickjacking (classified as a user interface redress attack or UI redressing) is a malicious technique of tricking a user into clicking on something different from what the user perceives, thus potentially revealing confidential information or allowing others to take control of their computer while clicking on seemingly innocuous objects, including web pages.
+
+Links
+- [https://en.wikipedia.org/wiki/Clickjacking](https://en.wikipedia.org/wiki/Clickjacking)
+
+## Code Review
+Code review (sometimes referred to as peer review) is a software quality assurance activity in which one or several people check a program mainly by viewing and reading parts of its source code, and they do so after implementation or as an interruption of implementation.
+
+Links
+- [https://en.wikipedia.org/wiki/Code_review](https://en.wikipedia.org/wiki/Code_review)
+
 ## Common Vulnerabilities and Exposures
 The Common Vulnerabilities and Exposures (CVE) system provides a reference-method for publicly known information-security vulnerabilities and exposures.
 
@@ -33,6 +45,10 @@ The Common Weakness Enumeration (CWE) is a category system for hardware and soft
 Links
 - [https://en.wikipedia.org/wiki/Common_Weakness_Enumeration](https://en.wikipedia.org/wiki/Common_Weakness_Enumeration)
 
+## Command Injection
+Command injection is a cyber attack that involves executing arbitrary commands on a host operating system (OS).
+Typically, the threat actor injects the commands by exploiting an application vulnerability, such as insufficient input validation.
+
 ## Competitive Intelligence
 Competitive intelligence (CI) is the process and forward-looking practices used in producing knowledge about the competitive environment to improve organizational performance.
 
@@ -45,11 +61,30 @@ Content Addressable Memory (CAM) table is a system memory construct used by Ethe
 Links
 - [https://en.wikipedia.org/wiki/MAC_address](https://en.wikipedia.org/wiki/MAC_address)
 
+## Content Management System
+A content management system (CMS) is computer software used to manage the creation and modification of digital content (content management).
+A CMS is typically used for enterprise content management (ECM) and web content management (WCM).
+
+Links
+- [https://en.wikipedia.org/wiki/Content_management_system](https://en.wikipedia.org/wiki/Content_management_system)
+
 ## Cookie
 HTTP cookies (also called web cookies, Internet cookies, browser cookies, or simply cookies) are small blocks of data created by a web server while a user is browsing a website and placed on the user's computer or other device by the user's web browser.
 
 Links
 - [https://en.wikipedia.org/wiki/HTTP_cookie](https://en.wikipedia.org/wiki/HTTP_cookie)
+
+## Credential Stuffing
+Credential stuffing is a type of cyberattack in which the attacker collects stolen account credentials, typically consisting of lists of usernames and/or email addresses and the corresponding passwords (often from a data breach), and then uses the credentials to gain unauthorized access to user accounts on other systems through large-scale automated login requests directed against a web application.
+
+Links
+- [https://en.wikipedia.org/wiki/Credential_stuffing](https://en.wikipedia.org/wiki/Credential_stuffing)
+
+## Cross Origin Resource Sharing
+Cross-origin resource sharing (CORS) is a mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served.
+
+Links
+- [https://en.wikipedia.org/wiki/Cross-origin_resource_sharing](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
 
 ## Cross Site Request Forgery
 Cross-site request forgery, also known as one-click attack or session riding and abbreviated as CSRF (sometimes pronounced sea-surf) or XSRF, is a type of malicious exploit of a website or web application where unauthorized commands are submitted from a user that the web application trusts.
