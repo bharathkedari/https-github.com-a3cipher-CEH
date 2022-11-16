@@ -45,6 +45,25 @@ Content Addressable Memory (CAM) table is a system memory construct used by Ethe
 Links
 - [https://en.wikipedia.org/wiki/MAC_address](https://en.wikipedia.org/wiki/MAC_address)
 
+## Cookie
+HTTP cookies (also called web cookies, Internet cookies, browser cookies, or simply cookies) are small blocks of data created by a web server while a user is browsing a website and placed on the user's computer or other device by the user's web browser.
+
+Links
+- [https://en.wikipedia.org/wiki/HTTP_cookie](https://en.wikipedia.org/wiki/HTTP_cookie)
+
+## Cross Site Request Forgery
+Cross-site request forgery, also known as one-click attack or session riding and abbreviated as CSRF (sometimes pronounced sea-surf) or XSRF, is a type of malicious exploit of a website or web application where unauthorized commands are submitted from a user that the web application trusts.
+
+Links
+- [https://en.wikipedia.org/wiki/Cross-site_request_forgery](https://en.wikipedia.org/wiki/Cross-site_request_forgery)
+
+## Cross Site Scripting
+Cross-site scripting (XSS) is a type of security vulnerability that can be found in some web applications.
+XSS attacks enable attackers to inject client-side scripts into web pages viewed by other users.
+
+Links
+- [https://en.wikipedia.org/wiki/Cross-site_scripting](https://en.wikipedia.org/wiki/Cross-site_scripting)
+
 ## Cyber Kill Chain
 Developed by Lockheed Martin, the Cyber Kill Chain® framework is part of the Intelligence Driven Defense® model for identification and prevention of cyber intrusions activity.
 The model identifies what the adversaries must complete in order to achieve their objective.
