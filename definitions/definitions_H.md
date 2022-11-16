@@ -38,12 +38,33 @@ Generally, a honeypot consists of data (for example, in a network site) that app
 Links
 - [https://en.wikipedia.org/wiki/Honeypot_(computing)](https://en.wikipedia.org/wiki/Honeypot_(computing))
 
+## Hotfix
+A hotfix or quick-fix engineering update (QFE update) is a single, cumulative package that includes information (often in the form of one or more files) that is used to address a problem in a software product (i.e., a software bug).
+Typically, hotfixes are made to address a specific customer situation.
+
+Links
+- [https://en.wikipedia.org/wiki/Hotfix](https://en.wikipedia.org/wiki/Hotfix)
+
 ## Hping3
 hping3 is a network tool able to send custom ICMP/UDP/TCP packets and to display target replies like ping does with ICMP replies.
 It handles fragmentation and arbitrary packet body and size, and can be used to transfer files under supported protocols.
 
 Links
 - [https://www.kali.org/tools/hping3](https://www.kali.org/tools/hping3)
+
+## Hypertext Transfer Protocol
+The Hypertext Transfer Protocol (HTTP) is an application layer protocol in the Internet protocol suite model for distributed, collaborative, hypermedia information systems.
+HTTP is the foundation of data communication for the World Wide Web, where hypertext documents include hyperlinks to other resources that the user can easily access, for example by a mouse click or by tapping the screen in a web browser.
+
+Links
+- [https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+
+## Hypertext Transfer Protocol Response Splitting
+HTTP response splitting is a form of web application vulnerability, resulting from the failure of the application or its environment to properly sanitize input values.
+It can be used to perform cross-site scripting attacks, cross-user defacement, web cache poisoning, and similar exploits.
+
+Links
+- [https://en.wikipedia.org/wiki/HTTP_response_splitting](https://en.wikipedia.org/wiki/HTTP_response_splitting)
 
 ## Hypertext Transfer Protocol Secure
 Hypertext Transfer Protocol Secure (HTTPS) is an extension of the Hypertext Transfer Protocol (HTTP).
