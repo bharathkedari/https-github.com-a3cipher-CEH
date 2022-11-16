@@ -14,12 +14,24 @@ To protect stored passwords from compromise in case of a data breach, organizati
 Links
 - [https://en.wikipedia.org/wiki/Rainbow_table](https://en.wikipedia.org/wiki/Rainbow_table)
 
+## Ransomware
+Ransomware is a type of malware from cryptovirology that threatens to publish the victim's personal data or permanently block access to it unless a ransom is paid.
+
+Links
+- [https://en.wikipedia.org/wiki/Ransomware](https://en.wikipedia.org/wiki/Ransomware)
+
 ## Recon-ng
 Recon-ng is a Web Reconnaissance tool written in Python.
 It has so many modules, database interaction, built-in convenience functions, interactive help, and command completion, Recon-ng provides a powerful environment in which open source web-based reconnaissance can be conducted, and we can gather all information.
 
 Links
 - [https://github.com/lanmaster53/recon-ng](https://github.com/lanmaster53/recon-ng)
+
+## Remote Access Trojan
+A RAT (remote access Trojan) is malware an attacker uses to gain full administrative privileges and remote control of a target computer.
+
+Links
+- [https://en.wikipedia.org/wiki/Trojan_horse_(computing)](https://en.wikipedia.org/wiki/Trojan_horse_(computing))
 
 ## Remote Procedure Call
 Microsoft RPC (Microsoft Remote Procedure Call) is a modified version of DCE/RPC. Additions include partial support for UCS-2 (but not Unicode) strings, implicit handles, and complex calculations in the variable-length string and structure paradigms already present in DCE/RPC.
