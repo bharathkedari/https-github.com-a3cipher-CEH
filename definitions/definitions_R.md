@@ -7,6 +7,12 @@ It becomes a bug when one or more of the possible behaviors is undesirable.
 Links
 - [https://en.wikipedia.org/wiki/Race_condition](https://en.wikipedia.org/wiki/Race_condition)
 
+## RADIUS
+Remote Authentication Dial-In User Service (RADIUS) is a networking protocol that provides centralized authentication, authorization, and accounting (AAA) management for users who connect and use a network service.
+
+Links
+- [https://en.wikipedia.org/wiki/RADIUS](https://en.wikipedia.org/wiki/RADIUS)
+
 ## Rainbow Table
 A rainbow table is an efficient way to store data that has been computed in advance to facilitate cracking passwords.
 To protect stored passwords from compromise in case of a data breach, organizations avoid storing them directly, instead transforming them using a scrambling function – typically a cryptographic hash.
@@ -111,6 +117,12 @@ A risk matrix is a matrix that is used during risk assessment to define the leve
 
 Links
 - [https://en.wikipedia.org/wiki/Risk_matrix](https://en.wikipedia.org/wiki/Risk_matrix)
+
+## Rogue Access Point
+A rogue access point is a wireless access point that has been installed on a secure network without explicit authorization from a local network administrator,[1] whether added by a well-meaning employee or by a malicious attacker.
+
+Links
+- [https://en.wikipedia.org/wiki/Rogue_access_point](https://en.wikipedia.org/wiki/Rogue_access_point)
 
 ## Role Based Access Control
 In computer systems security, role-based access control (RBAC) or role-based security is an approach to restricting system access to authorized users.

@@ -26,6 +26,13 @@ Links
 ## Enumeration
 Enumeration is defined as the process of extracting user names, machine names, network resources, shares and services from a system.
 
+## Evil Twin
+An evil twin is a fraudulent Wi-Fi access point that appears to be legitimate but is set up to eavesdrop on wireless communications.
+The evil twin is the wireless LAN equivalent of the phishing scam.
+
+Links
+- [https://en.wikipedia.org/wiki/Evil_twin_(wireless_networks)](https://en.wikipedia.org/wiki/Evil_twin_(wireless_networks))
+
 ## Exiftool
 ExifTool is a free and open-source software program for reading, writing, and manipulating image, audio, video, and PDF metadata.
 It is platform independent, available as both a Perl library (Image::ExifTool) and command-line application.
@@ -46,6 +53,12 @@ The Exploit Database is an archive of public exploits and corresponding vulnerab
 Links
 - [https://github.com/offensive-security/exploitdb](https://github.com/offensive-security/exploitdb)
 - [https://www.exploit-db.com](https://www.exploit-db.com)
+
+## Extensible Authentication Protocol
+Extensible Authentication Protocol (EAP) is an authentication framework frequently used in network and internet connections.
+
+Links
+- [https://en.wikipedia.org/wiki/Extensible_Authentication_Protocol](https://en.wikipedia.org/wiki/Extensible_Authentication_Protocol)
 
 ## Extensible Markup Language
 Extensible Markup Language (XML) is a markup language and file format for storing, transmitting, and reconstructing arbitrary data.
