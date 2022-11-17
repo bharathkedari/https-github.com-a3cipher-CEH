@@ -7,6 +7,13 @@ The fragments are reassembled by the receiving host.
 Links
 - [https://en.wikipedia.org/wiki/IP_fragmentation](https://en.wikipedia.org/wiki/IP_fragmentation)
 
+## Padding Oracle Attack
+In cryptography, a padding oracle attack is an attack which uses the padding validation of a cryptographic message to decrypt the ciphertext.
+In cryptography, variable-length plaintext messages often have to be padded (expanded) to be compatible with the underlying cryptographic primitive.
+
+Links
+- [https://en.wikipedia.org/wiki/Padding_oracle_attack](https://en.wikipedia.org/wiki/Padding_oracle_attack)
+
 ## Pass the Hash
 In computer security, pass the hash is a hacking technique that allows an attacker to authenticate to a remote server or service by using the underlying NTLM or LanMan hash of a user's password, instead of requiring the associated plaintext password as is normally the case.
 It replaces the need for stealing the plaintext password to gain access with stealing the hash.
@@ -79,6 +86,13 @@ Pretexting is a type of social engineering attack that involves a situation, or 
 Links
 - [https://en.wikipedia.org/wiki/Pretexting](https://en.wikipedia.org/wiki/Pretexting)
 
+## Pretty Good Privacy
+Pretty Good Privacy (PGP) is an encryption program that provides cryptographic privacy and authentication for data communication.
+PGP is used for signing, encrypting, and decrypting texts, e-mails, files, directories, and whole disk partitions and to increase the security of e-mail communications.
+
+Links
+- [https://en.wikipedia.org/wiki/Pretty_Good_Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
+
 ## Protocol Analyzer
 A protocol analyzer is a tool (hardware or software) used to capture and analyze signals and data traffic over a communication channel.
 Such a channel varies from a local computer bus to a satellite link, that provides a means of communication using a standard communication protocol (networked or point-to-point).
@@ -100,3 +114,10 @@ Privilege escalation is the act of exploiting a bug, a design flaw, or a configu
 
 Links
 - [https://en.wikipedia.org/wiki/Privilege_escalation](https://en.wikipedia.org/wiki/Privilege_escalation)
+
+## Public Key Infrastructure
+A public key infrastructure (PKI) is a set of roles, policies, hardware, software and procedures needed to create, manage, distribute, use, store and revoke digital certificates and manage public-key encryption.
+
+Links
+- [https://en.wikipedia.org/wiki/Public_key_infrastructure](https://en.wikipedia.org/wiki/Public_key_infrastructure)
+ 

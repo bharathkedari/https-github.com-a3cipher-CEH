@@ -12,11 +12,23 @@ Keystroke logging, often referred to as keylogging or keyboard capturing, is the
 Links
 - [https://en.wikipedia.org/wiki/Keystroke_logging](https://en.wikipedia.org/wiki/Keystroke_logging)
 
+## Key Disclosure Laws
+Key disclosure laws, also known as mandatory key disclosure, is legislation that requires individuals to surrender cryptographic keys to law enforcement.
+
+Links
+- [https://en.wikipedia.org/wiki/Key_disclosure_law](https://en.wikipedia.org/wiki/Key_disclosure_law)
+
 ## Key Reinstallation Attack
 KRACK ("Key Reinstallation Attack") is a replay attack (a type of exploitable flaw) on the Wi-Fi Protected Access protocol that secures Wi-Fi connections.
 
 Links
 - [https://en.wikipedia.org/wiki/KRACK](https://en.wikipedia.org/wiki/KRACK)
+
+## Key Stretching
+In cryptography, key stretching techniques are used to make a possibly weak key, typically a password or passphrase, more secure against a brute-force attack by increasing the resources (time and possibly space) it takes to test each possible key.
+
+Links
+- [https://en.wikipedia.org/wiki/Key_stretching](https://en.wikipedia.org/wiki/Key_stretching)
 
 ## Kubernetes
 Kubernetes is an open-source container orchestration system for automating software deployment, scaling, and management.

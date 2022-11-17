@@ -7,6 +7,13 @@ Like obfuscation in natural language, it may use needlessly roundabout expressio
 Links
 - [https://en.wikipedia.org/wiki/Obfuscation_(software)](https://en.wikipedia.org/wiki/Obfuscation_(software))
 
+## One Time Pad
+In cryptography, the one-time pad (OTP) is an encryption technique that cannot be cracked, but requires the use of a single-use pre-shared key that is not smaller than the message being sent.
+In this technique, a plaintext is paired with a random secret key (also referred to as a one-time pad).
+
+Links
+- [https://en.wikipedia.org/wiki/One-time_pad](https://en.wikipedia.org/wiki/One-time_pad)
+
 ## Open Authorization
 OAuth (short for "Open Authorization") is an open standard for access delegation, commonly used as a way for internet users to grant websites or applications access to their information on other websites but without giving them the passwords.
 
@@ -29,6 +36,13 @@ The OWASP Zed Attack Proxy (ZAP) is one of the world's most popular free securit
 Links
 - [https://owasp.org](https://owasp.org)
 - [https://owasp.org/www-project-zap](https://owasp.org/www-project-zap)
+
+## Openssl
+OpenSSL is a software library for applications that secure communications over computer networks against eavesdropping or need to identify the party at the other end.
+It is widely used by Internet servers, including the majority of HTTPS websites.
+
+Links
+- [https://www.openssl.org](https://www.openssl.org)
 
 ## Operational Technology
 Operational technology (OT) is hardware and software that detects or causes a change, through the direct monitoring and/or control of industrial equipment, assets, processes and events.
