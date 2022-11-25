@@ -48,6 +48,12 @@ Start a full pentest in minutes with powerful cloud-based tools, plus flexible r
 Links
 - [https://pentest-tools.com](https://pentest-tools.com)
 
+## Personally Identifiable Information
+Personal data, also known as personal information or personally identifiable information (PII), is any information related to an identifiable person.
+
+Links
+- [https://en.wikipedia.org/wiki/Personal_data](https://en.wikipedia.org/wiki/Personal_data)
+ 
 ## Phishing
 Phishing is a type of social engineering where an attacker sends a fraudulent (e.g., spoofed, fake, or otherwise deceptive) message designed to trick a person into revealing sensitive information to the attacker or to deploy malicious software on the victim's infrastructure like ransomware.
 
@@ -60,6 +66,12 @@ In security, piggybacking, similar to tailgating, refers to when a person tags a
 Links
 - [https://en.wikipedia.org/wiki/Piggybacking_(security)](https://en.wikipedia.org/wiki/Piggybacking_(security))
 
+## Point of Sale Malware
+Point-of-sale malware (POS malware) is usually a type of malicious software (malware) that is used by cybercriminals to target point of sale (POS) and payment terminals with the intent to obtain credit card and debit card information, a card's track 1 or track 2 data and even the CVV code, by various man-in-the-middle attacks, that is the interception of the processing at the retail checkout point of sale system.
+
+Links
+- [https://en.wikipedia.org/wiki/Point-of-sale_malware](https://en.wikipedia.org/wiki/Point-of-sale_malware)
+ 
 ## Postman
 Postman is an API platform for developers to design, build, test and iterate their APIs.
 
@@ -92,6 +104,13 @@ PGP is used for signing, encrypting, and decrypting texts, e-mails, files, direc
 
 Links
 - [https://en.wikipedia.org/wiki/Pretty_Good_Privacy](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
+
+## Protected Health Information
+Protected health information (PHI) under the U.S. law is any information about health status, provision of health care, or payment for health care that is created or collected by a Covered Entity (or a Business Associate of a Covered Entity), and can be linked to a specific individual.
+This is interpreted rather broadly and includes any part of a patient's medical record or payment history.
+
+Links
+- [https://en.wikipedia.org/wiki/Protected_health_information](https://en.wikipedia.org/wiki/Protected_health_information)
 
 ## Protocol Analyzer
 A protocol analyzer is a tool (hardware or software) used to capture and analyze signals and data traffic over a communication channel.
