@@ -19,11 +19,23 @@ Keystroke logging, often referred to as keylogging or keyboard capturing, is the
 Links
 - [https://en.wikipedia.org/wiki/Keystroke_logging](https://en.wikipedia.org/wiki/Keystroke_logging)
 
+## Key Derivation Function
+In cryptography, a key derivation function (KDF) is a cryptographic algorithm that derives one or more secret keys from a secret value such as a master key, a password, or a passphrase using a pseudorandom function (which typically uses a cryptographic hash function or block cipher).
+
+Links
+- [https://en.wikipedia.org/wiki/Key_derivation_function](https://en.wikipedia.org/wiki/Key_derivation_function)
+
 ## Key Disclosure Laws
 Key disclosure laws, also known as mandatory key disclosure, is legislation that requires individuals to surrender cryptographic keys to law enforcement.
 
 Links
 - [https://en.wikipedia.org/wiki/Key_disclosure_law](https://en.wikipedia.org/wiki/Key_disclosure_law)
+
+## Key Escrow
+Key escrow (also known as a "fair" cryptosystem) is an arrangement in which the keys needed to decrypt encrypted data are held in escrow so that, under certain circumstances, an authorized third party may gain access to those keys.
+
+Links
+- [https://en.wikipedia.org/wiki/Key_escrow](https://en.wikipedia.org/wiki/Key_escrow)
 
 ## Key Reinstallation Attack
 KRACK ("Key Reinstallation Attack") is a replay attack (a type of exploitable flaw) on the Wi-Fi Protected Access protocol that secures Wi-Fi connections.
